@@ -8,6 +8,8 @@ Fabric facilitates collaboration among data workers, simplifying processes and h
 
 ![image](https://github.com/aysegulyigitbi/Microsoft-Fabric/assets/127193220/96bef429-966f-4be7-a4b3-5703993b2f2c)
 
+For Turkish: https://turkiyeyayini.com/microsoft-fabrice-giri%C5%9F-8941f476c660
+
 ## Advantages of Using Microsoft Fabric
 
 ### Comprehensive Integrated Analytics
